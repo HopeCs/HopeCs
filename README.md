@@ -4,6 +4,24 @@ Hi, I'm Eray, a software developer. I build web and mobile apps, mostly around e
 
 I'm working on **[Confexon](https://confexonapp.com)**, one app for event applications, management and participation, replacing the usual pile of forms, spreadsheets, emails and group chats. I also build websites for MUN conferences and events.
 
+## 🌐 Websites
+
+### Conferences & Events
+- [COSMUN 2026](https://cosmun.vercel.app)
+- [YönderMUN](https://yondermun.vercel.app)
+- [CRAMUN 2026](https://cramun.vercel.app)
+- [ARENA MUN 2026](https://arena-mun-2026.vercel.app)
+- [NÇALMUN'26](https://ncalmun.vercel.app)
+- [Model Senate Bursa 2026](https://modelsenate.vercel.app)
+- [Turkuaz Gençlik Çalıştayı](https://genclik-calistayi.vercel.app)
+- [Coşkunöz Afet Bilinçlendirme Çalıştayı](https://cosabc.vercel.app)
+- [Genç MEB AKUB](https://mebakub.vercel.app)
+- [VentureStudio26](https://venturestudio26.vercel.app)
+
+### Businesses
+- [Ademore Hair Atelier](https://ademore.vercel.app)
+- [Ahmet Arslan Hair Studio](https://ahmetarslan.vercel.app)
+
 ## 💻 Tech Stack
 
 ### Languages
