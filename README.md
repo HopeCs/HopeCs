@@ -1,8 +1,27 @@
 ## 💫 About Me
 
-Hi, I'm Eray, a software developer. I build web and mobile apps, mostly around events: Model United Nations conferences, workshops, assemblies and summits.
+Hi, I'm Eray 👋 I'm 17, a 12th grade IT student at Mehmet Kemal Coşkunöz Vocational and Technical Anatolian High School in Bursa, Türkiye, and currently an intern at [Bursa Web Yazılım](https://bursawebyazilim.com/).
 
-I'm working on **[Confexon](https://confexonapp.com)**, one app for event applications, management and participation, replacing the usual pile of forms, spreadsheets, emails and group chats. I also build websites for MUN conferences and events.
+## 🧭 My Story
+
+I started coding in middle school and chose to study IT in high school. The summer before, I took Udemy courses in Python and web development (HTML, CSS, JavaScript). Once high school started, I realized classes alone wouldn't take me very far, so I jumped into every project I could, starting with TÜBİTAK and TEKNOFEST projects.
+
+## 🇺🇳 MUN
+
+My English teacher encouraged us to join Model United Nations. I started as a delegate, gained experience, and went on to serve in IT teams and as **Head of IT**.
+
+## 🚀 Confexon
+
+A friend and I are building **[Confexon](https://confexonapp.com)**, an app that makes running conferences easier: applications, management and participation in one place. I've also built many MUN-related websites.
+
+## 🎯 Beyond Code
+
+Building things is my biggest hobby. I also enjoy gaming, series, films and anime, going to the cinema, and calisthenics.
+
+## 📫 Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erayceylan16)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eraycanerceylan@gmail.com)
 
 ## 🌐 Websites
 
