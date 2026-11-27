@@ -1,3 +1,5 @@
+**English** | [Türkçe](https://github.com/HopeCs/HopeCs/blob/main/README.tr.md)
+
 ## 💫 About Me
 
 Hi, I'm Eray 👋 I'm 17, a 12th grade IT student at Mehmet Kemal Coşkunöz Vocational and Technical Anatolian High School in Bursa, Türkiye, and currently an intern at [Bursa Web Yazılım](https://bursawebyazilim.com/).
@@ -68,3 +70,8 @@ Building things is my biggest hobby. I also enjoy gaming, series, films and anim
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://raw.githubusercontent.com/HopeCs/HopeCs/main/assets/stats.svg)
+![Most Used Languages](https://raw.githubusercontent.com/HopeCs/HopeCs/main/assets/languages.svg)
